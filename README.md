@@ -1,12 +1,3 @@
-<h3 align="center"><img width="30%" src="https://i.ibb.co/X8Kzg5W/playing-music-bro.png"></h3>
-
-<h3 align="center">Hello, I'm Oğuzhan</h3>
-
-<h4 align="center">🎮 Game Developer at Gnarly Game Studio | 💻 Computer Science Grad</h4>
-
----
-
-### 🎮 Let's Collaborate!
 I'm a passionate game developer who loves combining creativity and technology to bring unique projects to life. I focus on designing and building immersive and engaging games, and I enjoy every aspect of game development—from coding mechanics to creating artistic visuals.
 
 Here’s a bit more about me:
